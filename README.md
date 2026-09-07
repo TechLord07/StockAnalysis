@@ -1,6 +1,6 @@
 # Stock Price Forecasting with LSTM
 
-[![CI](https://github.com/TechLord07/StockAnalysis/actions/workflows/ci.yml/badge.svg)](https://github.com/TechLord07/StockAnalysis/actions/workflows/ci.yml)
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15%2B-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -10,7 +10,7 @@ stacked LSTM neural network. Built to demonstrate a clean separation between
 data ingestion, preprocessing, modeling, evaluation, and visualization —
 rather than one monolithic script.
 
-![Sample prediction](predictions.png)
+![Sample prediction](sample_predictions.png)
 
 ---
 
