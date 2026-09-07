@@ -10,7 +10,7 @@ stacked LSTM neural network. Built to demonstrate a clean separation between
 data ingestion, preprocessing, modeling, evaluation, and visualization —
 rather than one monolithic script.
 
-![Sample prediction](docs/sample_prediction.png)
+![Sample prediction](predictions.png)
 
 ---
 
@@ -191,7 +191,7 @@ The training loss curve below shows the model converging smoothly over ~80
 epochs, with most of the improvement happening in the first 10 epochs before
 early stopping kicks in.
 
-![Training loss curve](docs/training_loss.png)
+![Training loss curve](training_loss.png)
 
 On the held-out test set, the model tracks the overall trend of the price
 series closely, with a MAPE of under 3%. As expected for a model that only
