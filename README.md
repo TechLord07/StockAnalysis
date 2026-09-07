@@ -10,7 +10,7 @@ stacked LSTM neural network. Built to demonstrate a clean separation between
 data ingestion, preprocessing, modeling, evaluation, and visualization —
 rather than one monolithic script.
 
-![Sample prediction](sample_predictions.png)
+![Sample prediction](sample_prediction.png)
 
 ---
 
